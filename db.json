@@ -19,11 +19,6 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
       "userId": 1,
       "title": "Gorgeous Cotton Tuna",
       "id": 11
